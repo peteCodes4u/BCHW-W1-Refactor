@@ -74,6 +74,15 @@ h2 {
     margin-left: 25px;
 }
 
+.skip {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
 main{
     width: 75%;
     display: inline-block;
